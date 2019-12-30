@@ -1,10 +1,10 @@
-#This File will help the developers to work on GitHub with Git.
+# This File will help the developers to work on GitHub with Git.
 
 Initially we shall have a master branch which will be the Production Ready Branch.
 We shall follow git workflow strategy and create a development branch, which will be checkout version of the master branch.
 
 Some of the Git Commands that are usefull are:
-1. git clone <github-url> , its best to use ssh while cloning the repository.
+'' git clone <github-url> , its best to use ssh while cloning the repository.
    We can clone using either https or ssh. While doing it with https: a username and password will be prompted for the initial session where 
    the username and password needs to be entered. If session expires this activity keeps on repeating.
    If we try with ssh then this issue is over ruled.
